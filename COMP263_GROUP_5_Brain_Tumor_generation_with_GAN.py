@@ -14,7 +14,6 @@ import os
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Reshape, BatchNormalization, LeakyReLU, Conv2DTranspose, Conv2D, Flatten, Dropout
 
-# Your code for listing directories
 # Define the path to the directory containing the dataset
 dir_path = './brain_tumor_dataset'
 # List subdirectories within the main directory
