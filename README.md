@@ -1,27 +1,27 @@
-Project Brain Tumor Image
+# Project Brain Tumor Image
 
 Version 1
 
-Group Members
-Juan Arevalo
-José Muñiz
-Rubén Ormeno
-Samantha Ortiz de Foronda
-Mariela Ramos
+*Group Members*
+- Juan Arevalo
+- José Muñiz
+- Rubén Ormeno
+- Samantha Ortiz de Foronda
+- Mariela Ramos
 
 Project Overview
 This project is structured into three main parts, each focusing on different aspects of image processing and machine learning for brain tumor analysis.
 
-Part 1: Tumor Prediction using Convolutional Neural Networks (CNN)
+### Part 1: Tumor Prediction using Convolutional Neural Networks (CNN)
 CNN Basic: Basic CNN models for tumor prediction.
 CNN with Augmentation: CNN models enhanced with image augmentation techniques to improve accuracy.
 CNN with Autoencoder: Utilization of CNNs with an autoencoder for feature extraction and improved prediction accuracy.
 
-Part 2: Brain Image Generation
+### Part 2: Brain Image Generation
 Generative Adversarial Networks (GAN): Employing GANs for synthetic brain image generation.
 Framework: PyTorch is used to implement and train GAN models.
 
-Part 3: Advanced Image Processing with Various Frameworks
+### Part 3: Advanced Image Processing with Various Frameworks
 ResNet: Implementation of Residual Networks for efficient image processing.
 EfficientNet: Using EfficientNet models for high efficiency and accuracy.
 VGG19 and RESNET50: Implementations using VGG19 and a modified version of ResNet with 50 layers.
